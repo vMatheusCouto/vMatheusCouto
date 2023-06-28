@@ -2,7 +2,7 @@
 
 ## Intro
 
-Developer (studying) using
+Developer (student) using
 
 - React.js
 - Node.js
@@ -10,7 +10,7 @@ Developer (studying) using
 - Javascript
 - Typescript
 
-## Cursing
+## Studying
 
 - React.js
 - Node.js
