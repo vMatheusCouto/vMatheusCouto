@@ -2,7 +2,7 @@
 
 ## Intro
 
-Developer (student) using
+Developer (studying) using
 
 - React.js
 - Node.js
