@@ -1,6 +1,6 @@
 # START
 
-## I'm Matheus Couto, a programmer studiyng to always improve more!
+## I'm Matheus Couto, a programmer studying to always improve more!
 
 Developer at:
 
