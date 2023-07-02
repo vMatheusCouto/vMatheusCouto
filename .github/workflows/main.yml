@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Generate the snake
         id: snake-gif
@@ -24,7 +25,8 @@ jobs:
           GIF_PATH: dist/github-contribution-grid-snake.gif
           SVG_PATH: dist/github-contribution-grid-snake.svg
 
-      - run: git status
+      - name: Check git status
+        run: git status
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -33,7 +35,8 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
