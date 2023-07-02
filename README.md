@@ -16,6 +16,6 @@ Developer at:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmatheuscouto)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+ ##
 
-![snake gif](https://github.com/vMatheusCouto/vMatheusCouto/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vmatheuscouto/vmatheuscouto/blob/output/github-contribution-grid-snake.gif)
