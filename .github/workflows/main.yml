@@ -40,7 +40,6 @@ jobs:
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@main
-        run: echo "Workflow completed successfully"
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
