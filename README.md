@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=vMatheusCouto&color=4e03fc)
 
 <h3>When I code, I rely on</h3>
 <p>
