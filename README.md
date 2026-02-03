@@ -23,6 +23,6 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vMatheusCouto&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vMatheusCouto)](https://git.io/streak-stats)
 
-![Matheus Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=vMatheusCouto&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vMatheusCouto?cardType=level&theme=dark&fontFamily=JetBrains%20Mono&showIcons=false&preferLogin=true&borderRadius=16&Border=DDDDDD00&Background=00000000)](https://git.io/awesome-stats-card)
