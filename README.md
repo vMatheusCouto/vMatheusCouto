@@ -23,6 +23,4 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vMatheusCouto)](https://git.io/streak-stats)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vMatheusCouto?cardType=level&theme=dark&fontFamily=JetBrains%20Mono&showIcons=false&preferLogin=true&borderRadius=16&Border=DDDDDD00&Background=00000000)](https://git.io/awesome-stats-card)
